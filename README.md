@@ -62,3 +62,13 @@ npm install -g @angular/cl\
 npm start
 
 open with  http://localhost:4200
+
+
+
+# SCREENSHOTS
+
+https://postimg.cc/7JG0LjLL/57930619#:~:text=%5BScreenshot-26.png%5D(https%3A//postimg.cc/7JG0LjLL)
+https://drive.google.com/file/d/1O8JaTyKH-m_TS_JfjH9rdDYuN3riqqpb/view?usp=sharing
+https://drive.google.com/file/d/1JShS5TY2Y3roIbTZU1f3mNZYsN1LNMM-/view?usp=sharing
+https://drive.google.com/file/d/12shmVFpbXoW_jl0XeJr6h3E_bKbwZuTp/view?usp=sharing
+https://drive.google.com/file/d/1PG2Mkvu1tSagERi61prJyaJtHRzEbIC5/view?usp=sharing
