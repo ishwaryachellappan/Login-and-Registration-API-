@@ -61,4 +61,4 @@ npm install\
 npm install -g @angular/cl\
 npm start
 
-open with # http://localhost:4200
+open with  http://localhost:4200
