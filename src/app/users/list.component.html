@@ -9,7 +9,7 @@
             <th style="width: 12%">Password</th>
             <th style="width: 12%">Email</th>
             <th style="width: 12%">Age</th>
-            <th style="width: 12%">phone</th>
+            <th style="width: 12%">Phone</th>
             <th style="width: 12%">DOB</th>
         </tr>
     </thead>
@@ -20,9 +20,10 @@
             <td>{{user.UserName}}</td>
             <td>{{user.Password}}</td>
             <td>{{user.Email}}</td>
-            <td>{{user.AGE}}</td>
+            <td>{{user.Age}}</td>
             <td>{{user.Phone}}</td>
             <td>{{user.DOB}}</td>
+            
             <td style="white-space: nowrap">
                 <a routerLink="edit/{{user.id}}" class="btn btn-sm btn-primary mr-1">View</a>
                 <button (click)="deleteUser(user.id)" class="btn btn-sm btn-danger btn-delete-user" [disabled]="user.isDeleting">
